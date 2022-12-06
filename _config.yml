@@ -4,11 +4,9 @@ description: 编程
 copyright  : © 2018 - 2022 wadeoo All Rights Reserved
 
 nav:
- - name: 中文
+ - name: 主页
    link: /
- - name: 编程人生
-   link: /code-life/
- - name: En
-   link: /about/
+ - name: 其他
+   link: /thoughts/
  - name: 笔记
-   link: /nodes/
+   link: /notes/
