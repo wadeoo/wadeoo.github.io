@@ -1,0 +1,12 @@
+title      : scott.cgi
+lang       : zh
+description: 编程写作 / 迭代认知 / 执行计划
+copyright  : © 2018 - 2022 scott.cgi All Rights Reserved
+
+nav:
+ - name: 中文
+   link: /
+ - name: 编程人生
+   link: /code-life/
+ - name: En
+   link: /about/
