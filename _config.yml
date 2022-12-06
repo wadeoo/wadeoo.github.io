@@ -10,3 +10,5 @@ nav:
    link: /code-life/
  - name: En
    link: /about/
+ - name: 笔记
+   link: /node/
