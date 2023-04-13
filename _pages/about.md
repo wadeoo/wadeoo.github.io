@@ -16,7 +16,7 @@ title: "关于我"
 ## 专业技能
 
 * 初步掌握 Java、C、C++，了解 Python、PHP、JS、JSP等编程语言
-* 安卓开发、Springboot、Socket、react、express等技术，前后端均有涉猎
+* 安卓开发、springboot、socket、react、mongodb、heroku等技术，前后端均有涉猎
 * 初步掌握基础数据结构和算法的基本原理
 * 熟练使用 Vim
 
