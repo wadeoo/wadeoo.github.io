@@ -5,9 +5,9 @@ title: "关于我"
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：21  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：21  
 * 手 机：15860642256 &emsp;&emsp;&emsp;  邮 箱：2256834434@qq.com    
-* 专 业：数字媒体技术 &emsp;&emsp;&emsp; 岗 位：软件开发,网站开发
+* 专 业：数字媒体技术 &emsp;&emsp;&emsp; 岗 位：网站开发,软件开发
 
 ## 工作及教育经历
 
@@ -15,9 +15,9 @@ title: "关于我"
 
 ## 专业技能
 
-* 初步掌握 Java、C、C++，了解 Python、PHP、JS等编程语言
-* 熟练使用 Android开发、Spring Boot、Socket等技术，前后端均有涉猎
-* 掌握基础数据结构和算法的基本原理
+* 初步掌握 Java、C、C++，了解 Python、PHP、JS、JSP等编程语言
+* 安卓开发、Springboot、Socket、react、express等技术，前后端均有涉猎
+* 初步掌握基础数据结构和算法的基本原理
 * 熟练使用 Vim
 
 ## 项目经历
@@ -39,4 +39,5 @@ title: "关于我"
 ## 其他信息 
 
 * 乐意学习新技术, 擅长融会贯通, 举一反三
+* 熟练使用chatgpt
 * 健身, 性格乐观，沉得住气 
