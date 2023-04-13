@@ -19,6 +19,7 @@ title: "关于我"
 * 安卓开发、springboot、socket、react、mongodb、heroku等技术，前后端均有涉猎
 * 初步掌握基础数据结构和算法的基本原理
 * 熟练使用 Vim
+* 初步掌握Cmake的使用
 
 ## 项目经历
 
