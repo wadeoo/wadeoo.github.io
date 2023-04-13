@@ -24,7 +24,7 @@ title: "关于我"
 
 1. 学校 - 各种项目作业 - 独立开发   
     * [github仓库地址](https://github.com/wadeoo?tab=repositories)
-    ![commitHistory](assets\img\commit.png)
+    [commitHistory](assets\img\commit.png)
 
 ## 获奖经历
 
@@ -32,8 +32,8 @@ title: "关于我"
 
 ## 个人账号 
 
-* [个人网站] (https://wadeoo.github.io/)
-* [github] (https://github.com/wadeoo)
+* [个人网站](https://wadeoo.github.io/)
+* [github](https://github.com/wadeoo)
 
 ## 其他信息 
 
