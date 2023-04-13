@@ -15,9 +15,10 @@ title: "关于我"
 
 ## 专业技能
 
-* 熟练使用 java,掌握javascript，了解 、Python、PHP 等编程语言
+* 初步掌握 java c c++，了解 Python PHP js  等编程语言
+* 安卓开发,springboot,socket等等,前后端均有涉猎
 * 掌握基础数据结构和算法的基本原理
-* 
+* 会使用vim
 
 ## 项目经历
 
@@ -34,7 +35,7 @@ title: "关于我"
     * demo演示地址，github地址  -->
 
 ## 获奖经历
-* 竞赛 2021年全国大学生英语竞赛C类二等奖
+* 竞赛 全国大学生英语竞赛C类二等奖
 
 ## 个人账号 
 * blog https://wadeoo.github.io/ 
