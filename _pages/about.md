@@ -24,7 +24,7 @@ title: "关于我"
 
 1. 学校 - 各种项目作业 - 独立开发   
     * [github仓库地址](https://github.com/wadeoo?tab=repositories)
-    [commitHistory](assets\img\commit.png)
+    ![commitHistory](../assets/img/commit.png)
 
 ## 获奖经历
 
@@ -37,5 +37,5 @@ title: "关于我"
 
 ## 其他信息 
 
-* 乐意学习新技术
+* 乐意学习新技术,擅长融会贯通,举一反三
 * 健身, 性格乐观，沉得住气 
