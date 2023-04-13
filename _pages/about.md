@@ -6,12 +6,12 @@ title: "关于我"
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：21  
-* 手 机：15860642256 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：2256834434@qq.com    
-* 专 业：数字媒体技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：软件开发,网站开发
+* 手 机：15860642256 &emsp;&emsp;&emsp;  邮 箱：2256834434@qq.com    
+* 专 业：数字媒体技术 &emsp;&emsp;&emsp; 岗 位：软件开发,网站开发
 
 ## 工作及教育经历
 
-* 福州大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~至今&emsp;&emsp;&emsp;&emsp; 数字媒体技术-本科  
+* 福州大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~至今&emsp;&emsp; 数字媒体技术-本科  
 
 ## 专业技能
 
@@ -22,25 +22,20 @@ title: "关于我"
 
 ## 项目经历
 
-1. 学校 - 各种 - 独立开发  
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址 
-<!-- 
-2. 学校 - XX游戏 - 负责后端开发 - 201309- 201401 
-    * 具体功能 
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址  -->
+1. 学校 - 各种项目作业 - 独立开发   
+    * [github仓库地址](https://github.com/wadeoo?tab=repositories)
+    ![commitHistory](assets\img\commit.png)
 
 ## 获奖经历
+
 * 竞赛 全国大学生英语竞赛C类二等奖
 
 ## 个人账号 
-* blog https://wadeoo.github.io/ 
-* github https://github.com/wadeoo 
+
+* [个人网站] (https://wadeoo.github.io/)
+* [github] (https://github.com/wadeoo)
 
 ## 其他信息 
-* 喜欢钻研技术
-* 性格乐观，沉得住气 
+
+* 乐意学习新技术
+* 健身, 性格乐观，沉得住气 
