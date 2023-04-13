@@ -15,27 +15,28 @@ title: "关于我"
 
 ## 专业技能
 
-* 初步掌握 java c c++，了解 Python PHP js  等编程语言
-* 安卓开发,springboot,socket等等,前后端均有涉猎
+* 初步掌握 Java、C、C++，了解 Python、PHP、JS等编程语言
+* 熟练使用 Android开发、Spring Boot、Socket等技术，前后端均有涉猎
 * 掌握基础数据结构和算法的基本原理
-* 会使用vim
+* 熟练使用 Vim
 
 ## 项目经历
 
 1. 学校 - 各种项目作业 - 独立开发   
-    * [github仓库地址](https://github.com/wadeoo?tab=repositories)
+    * [GitHub仓库地址](https://github.com/wadeoo?tab=repositories)
+    * github最近一年提交记录
     ![commitHistory](../assets/img/commit.png)
 
 ## 获奖经历
 
-* 竞赛 全国大学生英语竞赛C类二等奖
+* 竞赛: 全国大学生英语竞赛C类二等奖
 
 ## 个人账号 
 
 * [个人网站](https://wadeoo.github.io/)
-* [github](https://github.com/wadeoo)
+* [GitHub](https://github.com/wadeoo)
 
 ## 其他信息 
 
-* 乐意学习新技术,擅长融会贯通,举一反三
+* 乐意学习新技术, 擅长融会贯通, 举一反三
 * 健身, 性格乐观，沉得住气 
