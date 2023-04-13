@@ -5,7 +5,7 @@ title: "关于我"
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 年 龄：21  
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  年 龄：21  
 * 手 机：15860642256 &emsp;&emsp;&emsp;  邮 箱：2256834434@qq.com    
 * 专 业：数字媒体技术 &emsp;&emsp;&emsp; 岗 位：web开发,软件开发
 
